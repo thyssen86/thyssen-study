@@ -1,2 +1,2 @@
-print "hellow world!!";
-HELLOWWWWWWWWWWW
+print "hellow world!!;";
+HELLOWWWWWWWWWWW;
