@@ -1,2 +1,3 @@
 print "hellow world!!";
 HELLOWWWWWWWWWWW
+print ("Hellow my dear friend");
