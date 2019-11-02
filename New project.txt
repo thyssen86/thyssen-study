@@ -2,4 +2,5 @@ print "hellow world!!;";
 HELLOWWWWWWWWWWW;
 print ("Hellow my dear friend;");
 print ("Nice to meet you";);
-printttttt
+printtprint 
+print ("Hellow people!!!")
